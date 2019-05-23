@@ -1,3 +1,4 @@
+//O(1), O(1)
 class Solution {
     public int countNumbersWithUniqueDigits(int n) {
         //10; 9*9; 9*9*8; 9*9*8*7……
