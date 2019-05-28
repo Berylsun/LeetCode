@@ -7,6 +7,8 @@ class Solution {
         int start = 0;
         int end = 0;
         
+       //Arrays.sort(intervals, (x, y) -> x[0] - y[0]); !!!
+        
        Arrays.sort(intervals, 
                     new Comparator<int[]>() {
                        @Override 
