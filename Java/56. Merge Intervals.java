@@ -1,20 +1,22 @@
-public int[][] insert(int[][] intervals, int[] newInterval) {
+public int[][] merge(int[][] intervals) {
+        if (intervals == null || intervals.length == 0) {
+            return new int[][]{};
+        }
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
         List<int[]> res = new ArrayList<>();
-        int i = 0;
-        while (i < intervals.length && intervals[i][1] < newInterval[0]) {
-            res.add(intervals[i]);
-            i++;
+        int start = intervals[0][0];
+        int end = intervals[0][1];
+        
+        for (int[] interval : intervals) {
+            if (interval[0] <= end){
+                end = Math.max(interval[1], end);
+            } else {
+                res.add(new int[]{start, end});
+                start = interval[0];
+                end = interval[1];
+            }
+            
         }
-        while (i < intervals.length && intervals[i][0] <= newInterval[1]) {
-            newInterval[0] = Math.min(intervals[i][0], newInterval[0]);
-            newInterval[1] = Math.max(intervals[i][1], newInterval[1]);
-            i++;
-        }
-        res.add(newInterval);
-        while (i < intervals.length) {
-            res.add(intervals[i]);
-            i++;
-        }
+        res.add(new int[]{start, end});
         return res.toArray(new int[][]{});
     }
-}
