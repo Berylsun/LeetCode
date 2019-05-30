@@ -1,46 +1,20 @@
-class Solution {
-    public int[][] merge(int[][] intervals) {
-        if (intervals == null || intervals.length < 2) return intervals;
-        ArrayList<int[]> list = new ArrayList<>();
+public int[][] insert(int[][] intervals, int[] newInterval) {
+        List<int[]> res = new ArrayList<>();
         int i = 0;
-        int j = 1;
-        int start = 0;
-        int end = 0;
-        
-       //Arrays.sort(intervals, (x, y) -> x[0] - y[0]); !!!
-        
-       Arrays.sort(intervals, 
-                    new Comparator<int[]>() {
-                       @Override 
-                       public int compare(int[] a, int[] b) {
-                           return Integer.compare(a[0], b[0]);
-                       }
-                    }
-        );
-        
-        
-        while (j < intervals.length) {
-            if (intervals[i][1] < intervals[j][0]) {
-                list.add(new int[]{intervals[i][0], intervals[i][1]});
-            }else{
-                while (j < intervals.length && intervals[i][1] >= intervals[j][0]) {
-                    start = intervals[i][0];
-                    end = Math.max(intervals[j][1], intervals[i][1]);                                         intervals[j] = new int[]{start, end};
-                    i = j;
-                    j++;
-                }
-                list.add(new int[]{start, end});
-            }            
+        while (i < intervals.length && intervals[i][1] < newInterval[0]) {
+            res.add(intervals[i]);
             i++;
-            j++;
         }
-        if (list.get(list.size() - 1)[1] < intervals[intervals.length - 1][0]) {
-            list.add(new int[]{intervals[intervals.length - 1][0], intervals[intervals.length - 1][1]});
+        while (i < intervals.length && intervals[i][0] <= newInterval[1]) {
+            newInterval[0] = Math.min(intervals[i][0], newInterval[0]);
+            newInterval[1] = Math.max(intervals[i][1], newInterval[1]);
+            i++;
         }
-        int[][] res = new int[list.size()][2];
-        for (int a = 0; a < list.size(); a++) {
-            res[a] = list.get(a);
+        res.add(newInterval);
+        while (i < intervals.length) {
+            res.add(intervals[i]);
+            i++;
         }
-        return res;
+        return res.toArray(new int[][]{});
     }
 }
