@@ -8,20 +8,17 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head==null){return head;}
-        int a = 1;
-        ListNode current1 = head;
-        ListNode current2 = head.next;
-        ListNode headeven = head.next;
-        while(current2!=null&&current2.next!=null){
-            ListNode odd = current1.next.next;
-            current1.next = current1.next.next;
-            current1 = odd;
-            ListNode even = current2.next.next;
-            current2.next = current2.next.next;
-            current2 = even;
+        if (head == null || head.next == null) return head;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenhead = even;
+        while (even != null && even.next != null) {
+            odd.next = odd.next.next;
+            even.next = even.next.next;
+            odd = odd.next;
+            even = even.next;
         }
-        current1.next=headeven;
+        odd.next = evenhead;
         return head;
     }
 }
