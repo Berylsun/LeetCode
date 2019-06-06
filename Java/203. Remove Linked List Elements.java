@@ -7,18 +7,16 @@
  * }
  */
 class Solution {
-    public ListNode removeElements(ListNode head, int val) {        
-        while(head != null && head.val==val){ // head!=null must be the first one!!!
-            head=head.next;
-        }        
-        ListNode current=head;
-        while(current!=null){
-            if(current.next!=null&&current.next.val==val){
-                current.next=current.next.next;
-            }else{
-                current=current.next;
-            }            
+    public ListNode removeElements(ListNode head, int val) {
+        if (head == null) return head;
+        ListNode cur = head;
+        while (cur != null && cur.next != null) {
+            if (cur.next.val == val) {
+                cur.next = cur.next.next;
+            }else {
+                cur = cur.next;
+            }
         }
-        return head;
+        return head.val == val ? head.next : head;
     }
 }
