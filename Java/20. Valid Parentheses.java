@@ -52,12 +52,12 @@ class Solution {
             } else if (ch == '{') {
                 stack.push('}');
             } else {
-                if (stack.isEmpty() || stack.pop() != ch) {
+                if (stack.isEmpty() || stack.pop() != ch) {  //right part more than left part
                     return false;
                 }
             }
         }
-        return stack.isEmpty();
+        return stack.isEmpty(); //left part more than right part
     }
 }
 
