@@ -1,4 +1,4 @@
-
+//n, n
 class Solution {
     public String simplifyPath(String path) {
         String[] str = path.split("/+");
