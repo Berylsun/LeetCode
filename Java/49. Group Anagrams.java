@@ -1,22 +1,28 @@
-class Solution {
-    public List<List<String>> groupAnagrams(String[] strs) {
-        int[] prime = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103};//26 a-z
-        Map<Integer,Integer> map=new HashMap<>();
-        List<List<String>> res= new ArrayList<>();
-        for(String s:strs){
-            int key=1;
-            for(char c:s.toCharArray()){
-                key*=prime[c-'a'];
+//time : O(m * n)   m : strs 长度   n : strs中最大String的长度
+//space : O(n) 或者 O(n^2) 结果不同
+public List<List<String>> groupAnagrams(String[] strs) {
+        HashMap<String, List<String>> map = new HashMap<>();
+
+        for (String str : strs) {
+            int[] count = new int[26];
+            for (Character ch : str.toCharArray()) {
+                count[ch - 'a']++;
             }
-            List<String> t=new ArrayList<>();
-            if(map.containsKey(key)){
-                t=res.get(map.get(key));   
-            }else{
-                res.add(t);
-                map.put(key,res.size()-1);
+            String s = "";
+            for (int i = 0; i < count.length; i++) {
+                if (count[i] != 0) {
+                    s += String.valueOf(count[i]) + String.valueOf((char)(i + 'a'));
+                }
             }
-            t.add(s);
+            if (map.containsKey(s)) {
+                List<String> list = map.get(s);
+                list.add(str);
+            } else {
+                List<String> list = new ArrayList<>();
+                list.add(str);
+                map.put(s, list);
+            }
         }
-        return res;
+
+        return new ArrayList<>(map.values());
     }
-}
