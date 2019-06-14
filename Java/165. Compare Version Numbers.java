@@ -1,3 +1,4 @@
+//O(max(m,n)), O(n)
 class Solution {
     public int compareVersion(String version1, String version2) {
         String[] v1 = version1.split("\\."); // . 、 | 和 * 等转义字符，必须得加 \\。
