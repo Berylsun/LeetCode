@@ -11,7 +11,7 @@ public String rearrangeString(String s, int k) {
         StringBuilder res = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             int nextLetter = findNext(count, valid, i);
-            if (nextLetter = -1) return false;
+            if (nextLetter = -1) return "";
             res.append((char)(nextLetter + 'a'));
             count[nextLetter]--;
             valid[nextLetter] = i + k;
