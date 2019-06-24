@@ -1,4 +1,5 @@
 //O(n^min{k,n-k}), O(n)
+//http://stackoverflow.com/questions/31120402/complexity-when-generating-all-combinations
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
