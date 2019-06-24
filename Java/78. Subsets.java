@@ -18,3 +18,24 @@ class Solution {
         }
     }
 }
+
+//（位运算！）
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (nums == null || nums.length == 0) return res;
+        int size = (int)Math.pow(2, nums.length);
+        for (int i = 0; i < size; i++) {
+            res.add(new ArrayList<>());
+        }
+        
+        for (int i = 0; i < nums.length; i++) {
+            for (int j = 0; j < size; j++) {
+                if ((j >> i & 1) == 1) {
+                    res.get(j).add(nums[i]);
+                }
+            }
+        }
+        return res;
+    }
+}
