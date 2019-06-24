@@ -13,7 +13,7 @@ class Solution {
             return;
         }
         for (int i = 0; i < nums.length; i++) {
-            if (list.contains(nums[i])) continue;
+            if (list.contains(nums[i])) continue;  //O(n)
             list.add(nums[i]);
             helper(res, nums, list);
             list.remove(list.size() - 1);
