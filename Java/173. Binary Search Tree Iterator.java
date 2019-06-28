@@ -1,4 +1,4 @@
-// n
+// n 中序遍历
 /*
  * next() and hasNext() should run in average O(1) time and uses O(h) memory, where h is the height of the tree.
  */
