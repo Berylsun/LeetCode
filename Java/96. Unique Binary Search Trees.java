@@ -1,4 +1,4 @@
-//n, n
+//n / n^2, n
 /*
 n = 3
      root : 1   left : 0 right : 2   f(0) * f(2);
