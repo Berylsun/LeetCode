@@ -18,7 +18,7 @@ public double findMedianSortedArrays(int[] nums1, int[] nums2) {
             double R1 = (cut1 == nums1.length) ? Integer.MAX_VALUE : nums1[cut1];  // 视频里笔误错了，这里更正了
             double R2 = (cut2 == nums2.length) ? Integer.MAX_VALUE : nums2[cut2];
             if (L1 > R2) {
-                cutR = cut1 - 1;
+                cutR = cut1;
             } else if (L2 > R1) {
                 cutL = cut1 + 1;
             } else {
