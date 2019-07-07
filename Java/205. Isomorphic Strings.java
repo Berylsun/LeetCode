@@ -1,4 +1,4 @@
-//n^2(map.contains O(n)), 1(256)
+//n^2(map.containsValue O(n)), 1(256)
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         Map<Character, Character> map= new HashMap<>();
