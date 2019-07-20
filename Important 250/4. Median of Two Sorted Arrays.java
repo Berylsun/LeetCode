@@ -1,4 +1,5 @@
-//log(min(m, n), 1
+//log(min(m, n)), 1  **Binary Search**
+
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if (nums1.length > nums2.length) {
