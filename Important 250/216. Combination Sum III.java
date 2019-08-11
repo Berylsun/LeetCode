@@ -1,4 +1,4 @@
-//
+//O(1)(2^9), n
 class Solution {
     //BackTracking
     public List<List<Integer>> combinationSum3(int k, int n) {
