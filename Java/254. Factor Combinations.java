@@ -1,0 +1,23 @@
+//2^n, n
+public List<List<Integer>> getFactors(int n) {
+    List<List<Integer>> res = new ArrayList<>();
+    helper(res, n, new ArrayList<>(), 2);
+    return res;
+}
+
+public void helper(List<List<Integer>> res, int n, List<Integer> list, int start) {
+    if (n == 1) {
+        if (list.size() > 1) {
+            res.add(new ArrayList<>(list));
+            return;
+        }        
+    }
+    
+    for (int i = start; i <= n; i++) {
+        if (n % i == 0) {
+            list.add(i);
+            helper(res, n / i, list, i);
+            list.remove(list.size() - 1);
+        }       
+    }
+}
