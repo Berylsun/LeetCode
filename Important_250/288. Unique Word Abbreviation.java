@@ -1,4 +1,4 @@
-//
+//n, n
 
 HashMap<String, String> map;
 public _288_UniqueWordAbbreviation(String[] dictionary) {
