@@ -1,4 +1,4 @@
-//
+//n, n
 /*
     Example 1:
      Given the list [[1,1],2,[1,1]], return 8. (four 1's at depth 1, one 2 at depth 2)
