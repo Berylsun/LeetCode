@@ -14,3 +14,20 @@ class Solution {
         return res;
     }
 }
+
+
+public int lengthOfLongestSubstring2(String s) {
+        if (s == null || s.length() == 0) return 0;
+        HashSet<Character> set = new HashSet<>();
+        int res = 0;
+        for (int i = 0, j = 0; i < s.length(); i++) {
+            if (set.contains(s.charAt(i))) {
+                set.remove(s.charAt(j++));
+                i--;
+            } else {
+                set.add(s.charAt(i));
+                res = Math.max(res, set.size());
+            }
+        }
+        return res;
+    }
