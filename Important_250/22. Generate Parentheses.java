@@ -1,5 +1,6 @@
 //BackTracking 
 //time : (卡特兰数)O(n!) (2^n)  space : O(n)
+// h(n)= h(0)*h(n-1)+h(1)*h(n-2) + ... + h(n-1)h(0) (n>=2)
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
