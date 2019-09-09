@@ -28,7 +28,9 @@ class Solution {
         res.add("");
         for (int i = 0; i < digits.length(); i++) {
             String str = mapping[digits.charAt(i) - '0'];
+            //peek()  visit head
             while (res.peek().length() == i) {
+                //remove()  remove tail
                 String temp = res.remove();
                 for (int j = 0; j < str.length(); j++) {
                     res.add(temp + str.charAt(j));
