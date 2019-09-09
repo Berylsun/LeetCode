@@ -10,6 +10,7 @@ class Solution {
             int l = i + 1;
             int r = nums.length - 1;
             while (l < r) {
+                //remove dulipcate in res area instead of others
                 if (nums[i] + nums[l] + nums[r] == 0) {
                     res.add(Arrays.asList(nums[i], nums[l], nums[r]));
                     while (l < r && nums[l] == nums[l + 1]) l++; // remove duplicate
