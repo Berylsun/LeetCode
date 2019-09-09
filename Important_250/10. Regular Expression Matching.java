@@ -33,6 +33,26 @@ class Solution {
                 }
             }
         }
+        
+        /*
+        //i, j index of s, p
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.') {
+                    dp[i + 1][j + 1] = dp[i][j];
+                }else {
+                    if (p.charAt(j) == '*') {
+                        if (p.charAt(j - 1) == s.charAt(i) || p.charAt(j - 1) == '.') {
+                            //* = 1, 0, multiple
+                            dp[i + 1][j + 1] = (dp[i + 1][j] || dp[i + 1][j - 1] || dp[i][j + 1]); 
+                        }else {
+                            dp[i + 1][j + 1] = dp[i + 1][j - 1]; //* = 0;
+                        } 
+                    }
+                }
+            }
+        }
+        */
         return dp[s.length()][p.length()];
     }
 }
