@@ -16,8 +16,10 @@ class Solution {
     
     public long ldivide(long ldividend, long ldivisor) {
         if (ldividend < ldivisor) return 0;
-        long multiple = 1;
+        long multiple = 1; //must be long, because if it larger than Integer.MAX_VALUE, it will become minus value!!!
         long sum = ldivisor;
+        
+        //unchange ldividend, know how many ldividend in ldividend!!!
         while ((sum + sum) <= ldividend) {
             sum += sum;
             multiple += multiple;
