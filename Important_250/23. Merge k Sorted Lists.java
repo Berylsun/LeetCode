@@ -22,6 +22,7 @@ class Solution {
         return merge(l1, l2);
     }
     
+    //two ListNode merge there element
     public ListNode merge(ListNode l1, ListNode l2) {
         if (l1 == null) return l2;
         if (l2 == null) return l1;
