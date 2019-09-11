@@ -3,6 +3,8 @@ class Solution {
     public void nextPermutation(int[] nums) {
         if (nums == null || nums.length == 0) return;
         int firstSmall = -1;
+       
+        //end to start !!! 
         for (int i = nums.length - 2; i >= 0; i--) {
             if (nums[i] < nums[i + 1]) {
                 firstSmall = i;
@@ -13,6 +15,8 @@ class Solution {
             reverse(nums, 0, nums.length - 1);
             return;
         }
+        
+        //end to start !!!
         int firstLarge = -1;
         for (int i = nums.length - 1; i >= 0; i--) {
             if (nums[i] > nums[firstSmall]) {
@@ -21,6 +25,8 @@ class Solution {
             }
         }
         swap(nums, firstLarge, firstSmall);
+        
+        //if not reverse, it will be biger than this !!!
         reverse(nums,firstSmall + 1, nums.length - 1);
     }
     
