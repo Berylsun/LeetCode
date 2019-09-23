@@ -1,5 +1,6 @@
 //logn, 1
 class Solution {
+    //binary search  two section !!!
     public int[] searchRange(int[] nums, int target) {
         int[] res = {-1, -1};
         if (nums == null || nums.length == 0) return res;
