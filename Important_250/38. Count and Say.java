@@ -2,6 +2,32 @@
 class Solution {
     public String countAndSay(int n) {
         String res = "1";
+        for (int i = 1; i < n; i++) {
+            int count = 0;
+            int idx = 0;
+            char c = res.charAt(idx);
+            StringBuilder sb = new StringBuilder();
+            while (idx < res.length()) {
+                while (idx < res.length() && res.charAt(idx) == c) {
+                    idx++;
+                    count++;
+                }
+                sb.append(count);
+                sb.append(c);
+                if (idx < res.length()) {
+                    c = res.charAt(idx);
+                }
+                count = 0;
+            }
+            res = sb.toString();
+        }
+        return res;
+    }
+}
+
+class Solution {
+    public String countAndSay(int n) {
+        String res = "1";
         int i = 1; //!!!!
         
         while (i < n) { 
