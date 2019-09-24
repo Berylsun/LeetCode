@@ -3,7 +3,7 @@ class Solution {
     public int firstMissingPositive(int[] nums) {
         if (nums == null || nums.length == 0) return 1;
         for (int i = 0; i < nums.length; i++) {
-            //nums[nums[i] - 1] != nums[i] true ; nums[nums[i] - 1] != i + 1 false [1,1]
+            //nums[nums[i] - 1] != nums[i] true ; nums[nums[i] - 1] != i + 1 false [1,1]  !!! 太难了……
             if (nums[i] <= nums.length && nums[i] > 0 && nums[nums[i] - 1] != nums[i]) {
                 swap(nums, i, nums[i] - 1);
                 i--;
