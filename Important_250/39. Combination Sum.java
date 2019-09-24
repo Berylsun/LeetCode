@@ -7,6 +7,7 @@ class Solution {
         return res;
     }
     
+    //sum is too complex, we can use minus~
     public void helper(List<List<Integer>> res, List<Integer> list, int[] candidates, int target, int start) {
         if (target < 0) return;
         if (target == 0) {
