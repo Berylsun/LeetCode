@@ -1,4 +1,4 @@
-//BinarySearch
+//BinarySearch O(logn)
 
 class Solution {
     public int peakIndexInMountainArray(int[] A) {
