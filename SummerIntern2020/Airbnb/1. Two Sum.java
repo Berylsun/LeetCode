@@ -17,3 +17,5 @@ class Solution {
         return res;
     }
 }
+
+//throw new IllegalArgumentException("No two numbers result the target.");
