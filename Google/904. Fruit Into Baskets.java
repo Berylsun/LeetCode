@@ -1,3 +1,18 @@
+
+/*
+There are a row of trees, each tree grows one type of fruit. There may be trees grow the same fruit. For example, 4 trees in a row: apple tree, pear tree, apple tree, peach tree.
+
+You have two baskets, try to pick as many fruits as possible to your basket. The basket can carry any quantity of fruit, but each basket can only carries one type of fruit. For example, one basket is for apple only, another one is for pear only, then you can not pick peach to any of your baskets.
+
+You could start from any tree, then repeatedly perform the following steps:
+
+Pick fruit from the tree to your baskets. If no basket available, stop.
+Move to the next right tree. If there is no tree on the right, stop.
+Note that once you start, you could not reselect the start tree: you must follow step 1, then step 2, then back to step 1, and so on until you stop.
+
+What is the maximum amount of fruit you can collect?
+*/
+
 //Sliding Window
 //n, 2
 class Solution {
