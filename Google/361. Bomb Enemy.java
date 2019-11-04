@@ -14,13 +14,13 @@ class Solution {
                 if (j == 0 || grid[i][j - 1] == 'W') {
                     rowCount = 0;
                     for (int k = j; k < n && grid[i][k] != 'W'; k++) {
-                        rowCount += grid[i][k] == 'E' ? 1 : 0;
+                        rowCount += grid[i][k] == 'E' ? 1 : 0; // meet element 'E' or '0';
                     }
                 }
                 if (i == 0 || grid[i - 1][j] == 'W') {
                     colCount[j] = 0;
                     for (int k = i; k < m && grid[k][j] != 'W'; k++) {
-                        colCount[j] += grid[k][j] == 'E' ? 1 : 0;
+                        colCount[j] += grid[k][j] == 'E' ? 1 : 0; // meet element 'E' or '0';
                     }
                 }
                 //while other condition the colCount wll be the value of last colume
