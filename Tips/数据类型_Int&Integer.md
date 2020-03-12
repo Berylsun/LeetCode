@@ -18,7 +18,7 @@ x.equals(y) -> true;
 x == y -> false
 当x, y属于-128-127之间时，x==y -> true
 ```
-//string -> int/long/……\
+//string -> int/long/……
 ```String s = "123";
 Integer.parseInt(s);
 Long.parseLong(s);
