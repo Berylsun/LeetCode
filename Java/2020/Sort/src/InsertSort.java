@@ -6,7 +6,7 @@ import java.util.Arrays;
  * worst:O(n^2)
  * average:O(n^2)
  * space:O(1)
- *
+ * stable: Yes
  */
 public class InsertSort {
     public static void insertSort(int[] nums) {

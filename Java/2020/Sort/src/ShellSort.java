@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * time: O(n^(1.3—2))
  * space:O(1)
- *
+ * stable: no
  */
 public class ShellSort {
     public static void shellSort(int[] nums) {
