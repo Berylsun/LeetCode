@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Java/2020/Sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Sort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/2020/Sort/out/production/Sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Sort/out/production/Sort/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/2020/Sort/src/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Sort/src/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/2020/Sort/src/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Sort/src/ShellSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
