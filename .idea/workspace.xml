@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/String/SABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/SummerIntern/meituan/SABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/String/novenary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/SummerIntern/WYHY/novenary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/String/time_back.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/SummerIntern/meituan/time_back.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/String/treatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/SummerIntern/meituan/treatString.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,30 +19,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/844_BackspaceStringCompare.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-            </state>
+            <state relative-caret-position="-189" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Stack&amp;Queue/155_MinStack.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="87" column="3" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
-              <folding>
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#1346#1347#0" expanded="true" />
-                <element signature="e#1381#1382#0" expanded="true" />
-                <element signature="e#1408#1409#0" expanded="true" />
-                <element signature="e#1434#1435#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-171" />
           </provider>
         </entry>
       </file>
@@ -141,6 +130,13 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS_BFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -156,6 +152,21 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
               <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="SummerIntern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="SummerIntern" type="462c0819:PsiDirectoryNode" />
+              <item name="Ali" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,6 +189,8 @@
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\Coder" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\WYHY" />
+      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\meituan" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\String" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\Ali" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern" />
@@ -224,17 +237,18 @@
       <workItem from="1586358040296" duration="350000" />
       <workItem from="1586418937474" duration="2268000" />
       <workItem from="1586582216780" duration="704000" />
-      <workItem from="1586612895879" duration="1201000" />
+      <workItem from="1586612895879" duration="1487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51051000" />
+    <option name="totallyTimeSpent" value="51337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35084882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35084882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,7 +265,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33570158" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33570158" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -553,9 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/ZSYH/P1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -568,9 +579,6 @@
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem2">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/49_GroupAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -608,6 +616,16 @@
             <element signature="e#1434#1435#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
       </provider>
     </entry>
   </component>
