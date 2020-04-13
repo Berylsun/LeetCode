@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Array/1046_LastStoneWeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#62#63#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Array/525_ContiguousArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-71">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,10 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/Array/135_Candy.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/4_MedianofTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/289_GameofLife.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/57_InsertInterval.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/56_MergeIntervals.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/252_MeetingRooms.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/253_MeetingRoomsII.java" />
@@ -53,7 +72,6 @@
         <option value="$PROJECT_DIR$/Java/2020/Array/374_GuessNumberHigherorLower.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/34_FindFirstandLastPositionofElementinSortedArray.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/350_IntersectionofTwoArraysII.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/354_RussianDollEnvelopes.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/202_HappyNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/28_ImplementstrStr().java" />
@@ -73,6 +91,11 @@
         <option value="$PROJECT_DIR$/Java/2020/String/844_BackspaceStringCompare.java" />
         <option value="$PROJECT_DIR$/Java/2020/Stack&amp;Queue/155_MinStack.java" />
         <option value="$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem2.java" />
+        <option value="$PROJECT_DIR$/Java/2020/SummerIntern/WYHY/workerandTasks.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/543_DiameterofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/1046_LastStoneWeight.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/525_ContiguousArray.java" />
       </list>
     </option>
   </component>
@@ -109,6 +132,20 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,20 +156,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\Coder" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\WYHY" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\meituan" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\String" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\Ali" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\Coder" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -177,15 +214,16 @@
       <workItem from="1586418937474" duration="2268000" />
       <workItem from="1586582216780" duration="704000" />
       <workItem from="1586612895879" duration="1780000" />
-      <workItem from="1586759465583" duration="632000" />
+      <workItem from="1586759465583" duration="6642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52262000" />
+    <option name="totallyTimeSpent" value="58272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27566692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -204,7 +242,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3374778" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26110125" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -221,41 +259,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/238_ProductofArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/152_MaximumProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/228_SummaryRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/163_MissingRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/88_MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/75_SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -422,13 +425,6 @@
         <state relative-caret-position="-633" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/202_HappyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -566,6 +562,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../practice/src/workerandTasks">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/300_LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/543_DiameterofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/WYHY/novenary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/1046_LastStoneWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/525_ContiguousArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
