@@ -20,9 +20,7 @@ class Solution {
             }
         });
         //"00"
-        if (res[0].charAt(0) == '0') {
-            return "0";
-        }
+
         StringBuilder sb = new StringBuilder();
         for (String s : res) {
             sb.append(s);

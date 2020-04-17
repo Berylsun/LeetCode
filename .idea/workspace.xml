@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +15,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/2020/Array/169_MajorityElement.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Math/191_Numberof1Bits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/199_BinaryTreeRightSideView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -28,9 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/Array/163_MissingRanges.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/88_MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/75_SortColors.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/280_WiggleSort.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/376_WiggleSubsequence.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/324_WiggleSortII.java" />
@@ -73,12 +101,15 @@
         <option value="$PROJECT_DIR$/Java/2020/String/290_WordPattern.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/242_ValidAnagram.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/249_GroupShiftedStrings.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/LinkedList/160_IntersectionofTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/PerformStringShifts.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/678_ValidParenthesisString.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/165_CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/200_NumberofIslands.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/169_MajorityElement.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Math/191_Numberof1Bits.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/199_BinaryTreeRightSideView.java" />
       </list>
     </option>
   </component>
@@ -119,21 +150,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS_BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,12 +226,12 @@
       <workItem from="1586926433735" duration="2769000" />
       <workItem from="1587025838489" duration="1077000" />
       <workItem from="1587045734655" duration="1401000" />
-      <workItem from="1587107100820" duration="2872000" />
+      <workItem from="1587107100820" duration="5615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72236000" />
+    <option name="totallyTimeSpent" value="74979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -254,20 +271,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/252_MeetingRooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/253_MeetingRoomsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/56_MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -485,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/SummerIntern/meituan/nkpow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
@@ -586,7 +582,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/169_MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Math/191_Numberof1Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/199_BinaryTreeRightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
