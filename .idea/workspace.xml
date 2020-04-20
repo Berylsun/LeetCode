@@ -14,30 +14,32 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/传递信息.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/DP/64_MinimumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="76">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/剧情触发时间.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Array/33_SearchinRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-            </state>
+            <state relative-caret-position="-285" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/最小跳跃次数.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="247">
+              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+              <folding>
+                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/Array/278_FirstBadVersion.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/35_SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/33_SearchinRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/81_SearchinRotatedSortedArrayII.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/153_FindMinimuminRotatedSortedArray.java" />
@@ -101,12 +101,14 @@
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/传递信息.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/剧情触发时间.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/最小跳跃次数.java" />
+        <option value="$PROJECT_DIR$/Java/2020/DP/64_MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="978" />
-    <option name="y" value="132" />
+    <option name="x" value="897" />
+    <option name="y" value="6" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -143,15 +145,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="LCcontest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="LCcontest" type="462c0819:PsiDirectoryNode" />
-              <item name="2020力扣杯个人赛" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +157,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -229,18 +223,19 @@
       <workItem from="1587107100820" duration="6250000" />
       <workItem from="1587218815252" duration="696000" />
       <workItem from="1587264946369" duration="2674000" />
-      <workItem from="1587295142066" duration="3071000" />
+      <workItem from="1587295142066" duration="3689000" />
+      <workItem from="1587381423288" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82055000" />
+    <option name="totallyTimeSpent" value="83812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2603072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,21 +269,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-633" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/202_HappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/354_RussianDollEnvelopes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -611,8 +591,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/最小跳跃次数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
+        <state relative-caret-position="276">
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/64_MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/33_SearchinRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
