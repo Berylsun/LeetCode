@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/157_ReadNCharactersGivenRead4.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/158_ReadNCharactersGivenRead4II-Callmultipletimes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
@@ -32,7 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/LinkedList/876_MiddleoftheLinkedList.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/844_BackspaceStringCompare.java" />
         <option value="$PROJECT_DIR$/Java/2020/Stack&amp;Queue/155_MinStack.java" />
         <option value="$PROJECT_DIR$/Java/2020/SummerIntern/Ali/Problem2.java" />
@@ -83,6 +80,7 @@
         <option value="$PROJECT_DIR$/Java/2020/DP/1143_LongestCommonSubsequence.java" />
         <option value="$PROJECT_DIR$/Java/2020/DP/221_MaximalSquare.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/157_ReadNCharactersGivenRead4.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/158_ReadNCharactersGivenRead4II-Callmultipletimes.java" />
       </list>
     </option>
   </component>
@@ -137,7 +135,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -211,18 +209,18 @@
       <workItem from="1587606184401" duration="2568000" />
       <workItem from="1587694023408" duration="4164000" />
       <workItem from="1587866382077" duration="3868000" />
-      <workItem from="1588043699671" duration="4603000" />
+      <workItem from="1588043699671" duration="5302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105082000" />
+    <option name="totallyTimeSpent" value="105781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29102668" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29102668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +237,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3516874" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3516874" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -256,13 +254,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Array/153_FindMinimuminRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/LinkedList/160_IntersectionofTwoLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -571,6 +562,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/157_ReadNCharactersGivenRead4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/158_ReadNCharactersGivenRead4II-Callmultipletimes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
