@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/395_LongestSubstringwithAtLeastKRepeatingCharacters.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/159_LongestSubstringwithAtMostTwoDistinctCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-171">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/125_ValidPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -32,8 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/200_NumberofIslands.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Array/169_MajorityElement.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/179_LargestNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/Math/191_Numberof1Bits.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/199_BinaryTreeRightSideView.java" />
@@ -83,6 +88,8 @@
         <option value="$PROJECT_DIR$/Java/2020/String/30_SubstringwithConcatenationofAllWords.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/340_LongestSubstringwithAtMostKDistinctCharacters.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/395_LongestSubstringwithAtLeastKRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/159_LongestSubstringwithAtMostTwoDistinctCharacters.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/125_ValidPalindrome.java" />
       </list>
     </option>
   </component>
@@ -217,17 +224,18 @@
       <workItem from="1588401189841" duration="897000" />
       <workItem from="1588481523712" duration="4200000" />
       <workItem from="1588727687740" duration="3679000" />
-      <workItem from="1588820598878" duration="646000" />
+      <workItem from="1588820598878" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117795000" />
+    <option name="totallyTimeSpent" value="119086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32012933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32012933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -244,7 +252,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43872115" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43872115" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -261,20 +269,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/161_OneEditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/38_CountandSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/LeftmostColumnwithatLeastaOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -591,6 +585,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/159_LongestSubstringwithAtMostTwoDistinctCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/125_ValidPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
