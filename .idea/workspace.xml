@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="" />
+    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,21 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
+            <state relative-caret-position="-1302" />
           </provider>
         </entry>
       </file>
@@ -39,7 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/传递信息.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/剧情触发时间.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/最小跳跃次数.java" />
         <option value="$PROJECT_DIR$/Java/2020/DP/64_MinimumPathSum.java" />
@@ -90,6 +80,7 @@
         <option value="$PROJECT_DIR$/Java/2020/String/5_LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -107,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,26 +117,18 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -224,24 +208,26 @@
       <workItem from="1588401189841" duration="897000" />
       <workItem from="1588481523712" duration="4200000" />
       <workItem from="1588727687740" duration="3679000" />
-      <workItem from="1588820598878" duration="2985000" />
+      <workItem from="1588820598878" duration="3232000" />
+      <workItem from="1588897137157" duration="2776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120134000" />
+    <option name="totallyTimeSpent" value="123157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32012933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3257882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -252,7 +238,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.43872115" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25399646" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -269,9 +255,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/CountingSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -592,7 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="76">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
@@ -602,6 +585,11 @@
         <state relative-caret-position="57">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1302" />
       </provider>
     </entry>
   </component>
