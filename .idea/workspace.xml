@@ -15,10 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1302" />
+            <state relative-caret-position="380">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/131_PalindromePartitioning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -30,10 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/剧情触发时间.java" />
-        <option value="$PROJECT_DIR$/Java/2020/LCcontest/2020力扣杯个人赛/最小跳跃次数.java" />
-        <option value="$PROJECT_DIR$/Java/2020/DP/64_MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java" />
         <option value="$PROJECT_DIR$/Java/2020/DP/174_DungeonGame.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/6_ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/161_OneEditDistance.java" />
@@ -81,6 +88,10 @@
         <option value="$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/131_PalindromePartitioning.java" />
       </list>
     </option>
   </component>
@@ -117,6 +128,13 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,7 +146,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -209,25 +227,25 @@
       <workItem from="1588481523712" duration="4200000" />
       <workItem from="1588727687740" duration="3679000" />
       <workItem from="1588820598878" duration="3232000" />
-      <workItem from="1588897137157" duration="2776000" />
+      <workItem from="1588897137157" duration="3455000" />
+      <workItem from="1588987304376" duration="3263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123157000" />
+    <option name="totallyTimeSpent" value="127099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3257882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33144704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -240,6 +258,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25399646" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -255,18 +274,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Sort/src/SelectedSort.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -588,8 +595,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1302" />
+        <state relative-caret-position="133">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/131_PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
+        </state>
       </provider>
     </entry>
   </component>
