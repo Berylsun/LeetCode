@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +14,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/20_ValidParentheses.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/32_LongestValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
@@ -34,7 +23,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/22_GenerateParentheses.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/String/241_DifferentWaystoAddParentheses.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -46,8 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/271_EncodeandDecodeStrings.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/168_ExcelSheetColumnTitle.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/560_SubarraySumEqualsK.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/171_ExcelSheetColumnNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/13_RomantoInteger.java" />
@@ -97,6 +84,8 @@
         <option value="$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/20_ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/22_GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/32_LongestValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -232,12 +221,12 @@
       <workItem from="1588727687740" duration="3679000" />
       <workItem from="1588820598878" duration="3232000" />
       <workItem from="1588897137157" duration="3455000" />
-      <workItem from="1588987304376" duration="8451000" />
+      <workItem from="1588987304376" duration="9818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132287000" />
+    <option name="totallyTimeSpent" value="133654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -260,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25399646" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4635879" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -278,20 +267,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/13_RomantoInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/12_IntegertoRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/273. Integer to English Words.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -627,6 +602,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/22_GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/32_LongestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/241_DifferentWaystoAddParentheses.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
