@@ -9,6 +9,11 @@ class Solution {
         for (int i = 1; i <= num / i; i++) {
             if (i * i == num) return true;
         }
+//        for (long i = 1; i * i <= num; i++) {  // long!!!
+//            if (i * i == num) {
+//                return true;
+//            }
+//        }
         return false;
     }
 

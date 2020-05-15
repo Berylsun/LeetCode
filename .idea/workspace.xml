@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/2020/Math/43_MultiplyStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="198">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -64,7 +73,6 @@
         <option value="$PROJECT_DIR$/Java/2020/String/132_PalindromePartitioningII.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/267_PalindromePermutationII.java" />
         <option value="$PROJECT_DIR$/Java/2020/Math/Solution.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/20_ValidParentheses.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/22_GenerateParentheses.java" />
@@ -83,6 +91,7 @@
         <option value="$PROJECT_DIR$/Java/2020/Math/67. Add Binary.java" />
         <option value="$PROJECT_DIR$/Java/2020/Trie/208_ImplementTrie(PrefixTree).java" />
         <option value="$PROJECT_DIR$/Java/2020/Math/43_MultiplyStrings.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java" />
       </list>
     </option>
   </component>
@@ -229,18 +238,17 @@
       <workItem from="1589251913249" duration="2727000" />
       <workItem from="1589334724996" duration="595000" />
       <workItem from="1589422461583" duration="3248000" />
-      <workItem from="1589511687578" duration="1322000" />
+      <workItem from="1589511687578" duration="3016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141675000" />
+    <option name="totallyTimeSpent" value="143369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,7 +265,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25577265" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -495,13 +503,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Math/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -629,8 +630,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Math/43_MultiplyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="198">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>
