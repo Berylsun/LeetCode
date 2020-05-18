@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/438_FindAllAnagramsinaString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/String/567_PermutationinString.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Math/69_Sqrt(x).java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="193">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -41,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/3_LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/124_BinaryTreeMaximumPathSum.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/187/1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.java" />
         <option value="$PROJECT_DIR$/Java/2020/LCcontest/187/1437_CheckIfAll1'sAreatLeastLengthKPlacesAway.java" />
@@ -92,13 +82,15 @@
         <option value="$PROJECT_DIR$/Java/2020/Array/918_MaximumSumCircularSubarray.java" />
         <option value="$PROJECT_DIR$/Java/2020/LinkedList/328_OddEvenLinkedList.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/567_PermutationinString.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Math/69_Sqrt(x).java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="93" />
+    <option name="y" value="42" />
     <option name="width" value="1617" />
-    <option name="height" value="1032" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -131,14 +123,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -246,18 +231,18 @@
       <workItem from="1589334724996" duration="595000" />
       <workItem from="1589422461583" duration="3248000" />
       <workItem from="1589511687578" duration="3123000" />
-      <workItem from="1589773394015" duration="3522000" />
+      <workItem from="1589773394015" duration="5046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146998000" />
+    <option name="totallyTimeSpent" value="148522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26677445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26677445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +259,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -292,13 +277,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/187/1437_CheckIfAll1'sAreatLeastLengthKPlacesAway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/LCcontest/187/1438_LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
@@ -626,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/438_FindAllAnagramsinaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/918_MaximumSumCircularSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -640,10 +611,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/438_FindAllAnagramsinaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/567_PermutationinString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Math/69_Sqrt(x).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
