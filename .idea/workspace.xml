@@ -16,9 +16,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/100_SameTree.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="41">
               <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
@@ -32,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java" />
@@ -83,6 +82,7 @@
         <option value="$PROJECT_DIR$/Java/2020/Tree/102_BinaryTreeLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/1277_CountSquareSubmatriceswithAllOnes.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/100_SameTree.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" />
       </list>
     </option>
   </component>
@@ -137,7 +137,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -230,18 +230,17 @@
       <workItem from="1589962558580" duration="612000" />
       <workItem from="1590024937832" duration="4453000" />
       <workItem from="1590047455442" duration="712000" />
-      <workItem from="1590120237456" duration="323000" />
+      <workItem from="1590120237456" duration="397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163310000" />
+    <option name="totallyTimeSpent" value="163384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24252222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24252222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,7 +257,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -276,13 +275,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/266_PalindromePermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -635,6 +627,13 @@
     <entry file="file://$PROJECT_DIR$/Java/2020/Tree/100_SameTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
