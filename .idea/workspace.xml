@@ -16,11 +16,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-            </state>
+            <state relative-caret-position="-684" />
           </provider>
         </entry>
       </file>
@@ -32,8 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java" />
         <option value="$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java" />
@@ -83,6 +79,8 @@
         <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/1277_CountSquareSubmatriceswithAllOnes.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/100_SameTree.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" />
+        <option value="$PROJECT_DIR$/Java/2020/String/451_SortCharactersByFrequency.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/986_IntervalListIntersections.java" />
       </list>
     </option>
   </component>
@@ -231,16 +229,19 @@
       <workItem from="1590024937832" duration="4453000" />
       <workItem from="1590047455442" duration="712000" />
       <workItem from="1590120237456" duration="397000" />
+      <workItem from="1590209173238" duration="189000" />
+      <workItem from="1590392637365" duration="1864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163384000" />
+    <option name="totallyTimeSpent" value="165437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24252222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,7 +258,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321492" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -275,23 +276,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/9_PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/993_CousinsinBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -636,6 +620,25 @@
         <state relative-caret-position="41">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/986_IntervalListIntersections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/String/451_SortCharactersByFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
       </provider>
     </entry>
   </component>
