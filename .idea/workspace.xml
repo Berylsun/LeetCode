@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/2020/Array/1035_UncrossedLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/DP/1035_UncrossedLines.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +17,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
+        <entry file="file://$PROJECT_DIR$/Java/2020/DP/120_Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-684" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -30,11 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/214_ShortestPalindrome.java" />
-        <option value="$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/131_PalindromePartitioning.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/132_PalindromePartitioningII.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/267_PalindromePermutationII.java" />
         <option value="$PROJECT_DIR$/Java/2020/Math/Solution.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java" />
@@ -81,6 +79,11 @@
         <option value="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/451_SortCharactersByFrequency.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/986_IntervalListIntersections.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/1035_UncrossedLines.java" />
+        <option value="$PROJECT_DIR$/Java/2020/DP/70_ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/Java/2020/DP/62_UniquePaths.java" />
+        <option value="$PROJECT_DIR$/Java/2020/DP/63_UniquePathsII.java" />
+        <option value="$PROJECT_DIR$/Java/2020/DP/120_Triangle.java" />
       </list>
     </option>
   </component>
@@ -98,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,13 +124,21 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,15 +150,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\Coder" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\DP" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\JD" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\WYHY" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\meituan" />
       <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\String" />
-      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\SummerIntern\Ali" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Beryl\Desktop\GitHub\LeetCode\Java\2020\Coder" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -230,18 +240,19 @@
       <workItem from="1590047455442" duration="712000" />
       <workItem from="1590120237456" duration="397000" />
       <workItem from="1590209173238" duration="189000" />
-      <workItem from="1590392637365" duration="1864000" />
+      <workItem from="1590392637365" duration="2525000" />
+      <workItem from="1590461941697" duration="3724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165437000" />
+    <option name="totallyTimeSpent" value="169822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25464836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,42 +287,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/1232_CheckIfItIsaStraightLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/336_PalindromePairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/131_PalindromePartitioning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/132_PalindromePartitioningII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="102" selection-start-line="14" selection-start-column="102" selection-end-line="14" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/String/267_PalindromePermutationII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/Solution.java" />
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/997_FindtheTownJudge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -639,6 +614,44 @@
     <entry file="file://$PROJECT_DIR$/Java/2020/Tree/1008_ConstructBinarySearchTreefromPreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/1046_LastStoneWeight.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/1035_UncrossedLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/70_ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/62_UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/63_UniquePathsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/DP/120_Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
       </provider>
     </entry>
   </component>
