@@ -34,36 +34,4 @@ class Solution {
         }
         return true;
     }
-
-    /**
-     * O(n)
-     * O(n)
-     * union find
-     * @param N
-     * @param dislikes
-     * @return
-     */
-    public boolean possibleBipartition2(int N, int[][] dislikes) {
-        int[] ids = new int[N+1];
-
-        for(int[] x: dislikes) {
-            int one = x[0];
-            int two = x[1];
-
-            if (ids[one] == 0 && ids[two] == 0) {
-                ids[one] = two;
-                ids[two] = one;
-            }
-            else if (ids[one] != 0 && ids[two] == 0) {
-                ids[two] = ids[ids[one]];
-            }
-            else if (ids[one] == 0 && ids[two] != 0) {
-                ids[one] = ids[ids[two]];
-            }
-            else if (ids[one] != 0 && ids[two] != 0 && ids[one] == ids[two]) {
-                return false;
-            }
-        }
-        return true;
-    }
 }
