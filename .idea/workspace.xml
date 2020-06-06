@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +15,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/226_InvertBinaryTree.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/112_PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="528">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/2020/Tree/113_PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -32,8 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/241_DifferentWaystoAddParentheses.java" />
-        <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/733_FloodFill.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/301_RemoveInvalidParentheses.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/115_DistinctSubsequences.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/392_IsSubsequence.java" />
@@ -83,6 +86,8 @@
         <option value="$PROJECT_DIR$/Java/2020/Array/528_RandomPickwithWeight.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/101_SymmetricTree.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/226_InvertBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/257_BinaryTreePaths.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Tree/112_PathSum.java" />
       </list>
     </option>
   </component>
@@ -242,12 +247,12 @@
       <workItem from="1590816610550" duration="1435000" />
       <workItem from="1590908163153" duration="767000" />
       <workItem from="1591320350973" duration="690000" />
-      <workItem from="1591423964259" duration="2380000" />
+      <workItem from="1591423964259" duration="4109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185235000" />
+    <option name="totallyTimeSpent" value="186964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -288,27 +293,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/43_MultiplyStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/367_ValidPerfectSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/29_DivideTwoIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/LinkedList/328_OddEvenLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -629,6 +613,23 @@
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/257_BinaryTreePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/112_PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Tree/113_PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
