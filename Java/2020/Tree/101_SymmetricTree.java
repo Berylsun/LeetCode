@@ -26,8 +26,9 @@ class Solution {
     }
 
     public boolean helper(TreeNode left, TreeNode right) {
-        if (left == null && right == null) return true;
-        if (left == null || right == null) return false;
+        // 1 2 should be in order
+        if (left == null && right == null) return true; // 1
+        if (left == null || right == null) return false; // 2
         if (left.val != right.val) return false;
         return helper(left.left, right.right) && helper(left.right, right.left);
     }
