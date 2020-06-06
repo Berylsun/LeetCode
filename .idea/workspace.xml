@@ -16,8 +16,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java/2020/Array/1029_TwoCityScheduling.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Java/2020/Array/528_RandomPickwithWeight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -28,8 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/20_ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/Java/2020/String/22_GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/32_LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/241_DifferentWaystoAddParentheses.java" />
         <option value="$PROJECT_DIR$/Java/2020/DFS_BFS/733_FloodFill.java" />
@@ -79,6 +81,8 @@
         <option value="$PROJECT_DIR$/Java/2020/Array/886_PossibleBipartition.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/207_CourseSchedule.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/973_KClosestPointstoOrigin.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/1029_TwoCityScheduling.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/528_RandomPickwithWeight.java" />
       </list>
     </option>
   </component>
@@ -96,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,6 +129,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,18 +241,19 @@
       <workItem from="1590720197387" duration="3389000" />
       <workItem from="1590816610550" duration="1435000" />
       <workItem from="1590908163153" duration="767000" />
-      <workItem from="1591320350973" duration="620000" />
+      <workItem from="1591320350973" duration="690000" />
+      <workItem from="1591423964259" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182785000" />
+    <option name="totallyTimeSpent" value="183527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30719483" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31204528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,13 +288,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/2020/Math/67. Add Binary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Trie/208_ImplementTrie(PrefixTree).java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1159">
@@ -625,7 +623,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/1029_TwoCityScheduling.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/2020/Array/528_RandomPickwithWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
