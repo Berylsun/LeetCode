@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="682f4456-b06b-49ef-96c6-77149f329a84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java/2020/Array/406_QueueReconstructionbyHeight.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -28,7 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Java/2020/String/115_DistinctSubsequences.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/392_IsSubsequence.java" />
         <option value="$PROJECT_DIR$/Java/2020/String/187_RepeatedDNASequences.java" />
         <option value="$PROJECT_DIR$/Java/2020/Array/540_SingleElementinaSortedArray.java" />
@@ -79,6 +80,7 @@
         <option value="$PROJECT_DIR$/Java/2020/Tree/257_BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/112_PathSum.java" />
         <option value="$PROJECT_DIR$/Java/2020/Tree/113_PathSumII.java" />
+        <option value="$PROJECT_DIR$/Java/2020/Array/406_QueueReconstructionbyHeight.java" />
       </list>
     </option>
   </component>
@@ -120,7 +122,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="2020" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,12 +241,12 @@
       <workItem from="1590908163153" duration="767000" />
       <workItem from="1591320350973" duration="690000" />
       <workItem from="1591423964259" duration="4193000" />
-      <workItem from="1591508479903" duration="695000" />
+      <workItem from="1591508479903" duration="1532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187743000" />
+    <option name="totallyTimeSpent" value="188580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -621,7 +623,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/2020/Array/406_QueueReconstructionbyHeight.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
