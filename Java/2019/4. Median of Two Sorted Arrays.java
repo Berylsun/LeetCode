@@ -1,7 +1,7 @@
 //time : O(log(min(m,n)))    
 //space : O(1)
-
-public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+class Solution {
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if (nums1.length > nums2.length) {
             return findMedianSortedArrays(nums2, nums1);
         }
@@ -34,3 +34,4 @@ public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         }
         return -1;
     }
+}

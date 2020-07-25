@@ -1,4 +1,5 @@
 // time : O(n^3) space : O(n^2);
+class Solution {
     public String longestPalindrome(String s) {
         if (s == null || s.length() == 0) return s;
         String res = "";
@@ -19,6 +20,7 @@
     }
 
     String res = "";
+
     // time : O(n^2) space : O(1)
     public String longestPalindrome2(String s) {
         if (s == null || s.length() == 0) return s;
@@ -28,6 +30,7 @@
         }
         return res;
     }
+
     public void helper(String s, int left, int right) {
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
             left--;
@@ -38,3 +41,4 @@
             res = cur;
         }
     }
+}
