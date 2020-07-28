@@ -1,4 +1,5 @@
 //n^2, 1
+class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int res = nums[0] + nums[1] + nums[nums.length - 1];
         Arrays.sort(nums);
@@ -20,3 +21,4 @@
 
         return res;
     }
+}

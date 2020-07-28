@@ -1,5 +1,6 @@
 //n, n
-public int lengthOfLongestSubstring(String s) {
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
         if (s == null || s.length() == 0) return 0;
         HashMap<Character, Integer> map = new HashMap<>();
         int res = 0;
@@ -28,3 +29,4 @@ public int lengthOfLongestSubstring(String s) {
         }
         return res;
     }
+}
