@@ -9,18 +9,17 @@ class Solution {
         }
         return res;
     }
-    public void helper(int base, int[] nums, int target, int sum, int idx) {
+    public void helper(int base, int[] nums, int target, int sum, int i) {
         int t = target - base;
         if (Math.abs(t - sum) < Math.abs(target - res)) {
             res = sum + base;
         } else if (Math.abs(t - sum) == Math.abs(target - res)) {
             res = Math.min(res, sum + base);
         }
-        for (int i = idx; i < nums.length; i++) {
-            helper(base, nums, target, sum, i + 1);
-            helper(base, nums, target, sum + nums[i], i + 1);
-            helper(base, nums, target, sum + nums[i] * 2, i + 1);
-        }
+        if (i >= nums.length) return;
+        helper(base, nums, target, sum, i + 1);
+        helper(base, nums, target, sum + nums[i], i + 1);
+        helper(base, nums, target, sum + nums[i] * 2, i + 1);
     }
 
 }
