@@ -8,15 +8,11 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        if (head == null) return head;
         ListNode slow = head;
-        ListNode fast = head;
-        while (fast.next != null && fast.next.next != null) {
-            fast = fast.next.next;
+        ListNode quick = head;
+        while (quick != null && quick.next != null) {
             slow = slow.next;
-        }
-        if (fast.next != null) {
-            return slow.next;
+            quick = quick.next.next;
         }
         return slow;
     }
